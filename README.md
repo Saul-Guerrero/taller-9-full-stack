@@ -10,6 +10,6 @@
 
 <h2>Punto 2: html </h2>
 <div style="text">
-<img scr="./public/imagines/html.png"
+<img scr="./public/imagenes/html.png"
 alt="htlm">
 </div>
