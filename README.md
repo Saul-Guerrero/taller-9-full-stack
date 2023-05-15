@@ -9,7 +9,4 @@
 <a href="https://www.figma.com/file/yGFUPqoqfpL0JHTVJdfGSN/SAUL-GUERRERO?type=design&node-id=0%3A1&t=G1uKbORpCyYAl2c6-1">Link de figma</a>
 
 <h2>Punto 2: html </h2>
-<div style="text">
-<img scr="./public/imagenes/html.png"
-alt="htlm">
-</div>
+<img src="./public/imagenes/html.png" alt="html">
