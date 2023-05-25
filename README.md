@@ -17,3 +17,6 @@
 <h2>Punto 3: CSS </h2>
 <img src="./public/imagenes/imagenpagina.png" alt="html">
 
+<h2>Punto 4: html y CSS </h2>
+<img src="./public/imagenes/punto4_html_css.png" alt="html">
+
