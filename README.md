@@ -10,3 +10,6 @@
 
 <h2>Punto 2: html </h2>
 <img src="./public/imagenes/html.png" alt="html">
+
+<h2>Punto 3: html </h2>
+<img src="./public/imagenes/imagenpagina.png" alt="html">
