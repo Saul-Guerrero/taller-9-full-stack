@@ -29,3 +29,5 @@
 <h2>Punto 7: html y CSS </h2>
 <img src="./public/imagenes/punto7_html_css.png" alt="html">
 
+<h2>Punto 9: html y CSS </h2>
+<img src="./public/imagenes/punto9_html_css.png" alt="html"> 
