@@ -26,8 +26,11 @@
 <h2>Punto 6: html y CSS </h2>
 <img src="./public/imagenes/punto6_html_css.png" alt="html">
 
-<h2>Punto 7: html y CSS </h2>
+<h2>Punto 7-8: html y CSS </h2>
 <img src="./public/imagenes/punto7_html_css.png" alt="html">
 
 <h2>Punto 9: html y CSS </h2>
 <img src="./public/imagenes/punto9_html_css.png" alt="html"> 
+
+<h2>Link del Repositorio </h2>
+<link>https://github.com/Saul Guerrero/taller 9 full stack </link> 
