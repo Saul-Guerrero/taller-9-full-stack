@@ -33,4 +33,4 @@
 <img src="./public/imagenes/punto9_html_css.png" alt="html"> 
 
 <h2>Link del Repositorio </h2>
-<link>https://github.com/Saul Guerrero/taller 9 full stack </link> 
+<link>https://github.com/Saul-Guerrero/taller-9-full-stack </link> 
